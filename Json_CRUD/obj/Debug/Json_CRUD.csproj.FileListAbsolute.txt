@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\bin\Debug\Json_CRUD.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\bin\Debug\Json_CRUD.exe
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\bin\Debug\Json_CRUD.pdb
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\obj\Debug\Json_CRUD.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\obj\Debug\Json_CRUD.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\obj\Debug\Json_CRUD.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\obj\Debug\Json_CRUD.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\obj\Debug\Json_CRUD.exe
+c:\users\user\documents\visual studio 2013\Projects\Json_CRUD\Json_CRUD\obj\Debug\Json_CRUD.pdb
